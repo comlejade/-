@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "初级面试题",
+    "price": 90,
+    "discount": 1
+  },
+  {
+    "id": 2,
+    "name": "高级面试题",
+    "price": 900,
+    "discount": 1
+  },
+  {
+    "id": 3,
+    "name": "react app",
+    "price": 80,
+    "discount": 0
+  },
+  {
+    "id": 4,
+    "name": "vue app",
+    "price": 90,
+    "discount": 0
+  }
+]
